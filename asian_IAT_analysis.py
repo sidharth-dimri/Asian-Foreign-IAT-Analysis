@@ -75,9 +75,8 @@ values are from -1 to 1 with -1 being strongly asian, 1 being strongly white
 and 0 being neither
 
 there are some values with more than 1, but we will discredit those because
-if you look at the latency times, what were they doing. 900 latency
-times for one side and then like 2000 for the other??? did they fall asleep
-half way through the thing??? but yeah discredit those and focus on the others
+if you look at the latency times, they are way off. 900 latency
+times for one side and then 2000 for the other is a large discrepancy. Discredit those and focus on the others
 cuz no way those ones are valid
 """
 
