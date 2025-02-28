@@ -15,5 +15,5 @@ I have linked the datasets that I used below:
 NOTE: All data used for this research comes from Project Implicit, and by downloading these or any other datasets, you agree to follow their terms of use below
 _"By downloading and/or otherwise obtaining this data, you are agreeing to use and retain this data for strictly non-commercial research purposes, and affirm that you will not attempt to identify or re-identify individuals or groups of individuals from this data."_
 
-2019 dataset: [https://osf.io/qhtca](url)
-2021 dataset: [https://osf.io/7j89k](url)
+[2019 dataset]([url](https://osf.io/qhtca))
+[2021 dataset]([url](https://osf.io/7j89k))
