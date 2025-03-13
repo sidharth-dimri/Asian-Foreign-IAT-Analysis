@@ -30,7 +30,9 @@ def avginstate(state, csvFile):
             index = index + 1
 
     for x in range(len(csvFile)):
-        if(csvFile.iloc[x, 'D_biep.White_American_all']==state):
+        #the first value used uses the column that is 'STATE'
+        #the second value used uses the column that is 'D_biep.White_American_all'
+        if(csvFile.iloc[x, 69]==state):
             avg = avg + csvFile.iloc[x, 17]
 
     avg = avg/index
